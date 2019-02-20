@@ -1,0 +1,19 @@
+{
+  "name": "app-routing",
+  "version": "1.0.0",
+  "description": "[![NPM](https://nodei.co/npm/app-routing.png)](https://nodei.co/npm/app-routing/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artjohn1993/app-routing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artjohn1993/app-routing/issues"
+  },
+  "homepage": "https://github.com/artjohn1993/app-routing#readme"
+}
